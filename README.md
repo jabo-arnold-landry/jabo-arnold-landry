@@ -7,7 +7,7 @@
 Email: arnoldjabo@gmail.com
 
 # Fun fact
-I am developer prototype.
+I am a developer prototype.
 
 <!---
 jabo-arnold-landry/jabo-arnold-landry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
